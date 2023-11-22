@@ -1,0 +1,7 @@
+.text{
+text-align: center;
+}
+.text:hover{
+ color: red;
+ cursor: pointer;
+}
